@@ -1,0 +1,24 @@
+{
+    "name": "Movella.Xsens",
+    "rootNamespace": "",
+    "references": [
+        "Unity.LiveCapture",
+        "Unity.LiveCapture.Mocap",
+        "Unity.Timeline"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.live-capture",
+            "expression": "4.0.0-pre.5",
+            "define": "LIVE_CAPTURE_4_PRE5"
+        }
+    ],
+    "noEngineReferences": false
+}

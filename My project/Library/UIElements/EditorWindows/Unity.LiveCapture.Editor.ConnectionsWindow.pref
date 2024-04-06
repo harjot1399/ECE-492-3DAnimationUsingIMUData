@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12386, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Keys:
+  - __PanelContainer__rootVisualContainer__connections-window-vertical-pane__UnityEngine.UIElements.TwoPaneSplitView
+  - __PanelContainer__rootVisualContainer__connections-window-vertical-pane__connections-window-vertical-info-scroll__VerticalScroller__Slider__UnityEngine.UIElements.Scroller+ScrollerSlider
+  - __PanelContainer__rootVisualContainer__connections-window-vertical-pane__connections-window-vertical-info-scroll__HorizontalScroller__Slider__UnityEngine.UIElements.Scroller+ScrollerSlider
+  - __PanelContainer__rootVisualContainer__connections-window-vertical-pane__connections-window-vertical-settings-scroll__VerticalScroller__Slider__UnityEngine.UIElements.Scroller+ScrollerSlider
+  - __PanelContainer__rootVisualContainer__connections-window-vertical-pane__connections-window-vertical-settings-scroll__HorizontalScroller__Slider__UnityEngine.UIElements.Scroller+ScrollerSlider
+  - __PanelContainer__rootVisualContainer__connections-window-horizontal-pane__UnityEngine.UIElements.TwoPaneSplitView
+  - __PanelContainer__rootVisualContainer__connections-window-horizontal-pane__connections-window-horizontal-info-scroll__VerticalScroller__Slider__UnityEngine.UIElements.Scroller+ScrollerSlider
+  - __PanelContainer__rootVisualContainer__connections-window-horizontal-pane__connections-window-horizontal-info-scroll__HorizontalScroller__Slider__UnityEngine.UIElements.Scroller+ScrollerSlider
+  - __PanelContainer__rootVisualContainer__connections-window-horizontal-pane__connections-window-horizontal-settings-scroll__VerticalScroller__Slider__UnityEngine.UIElements.Scroller+ScrollerSlider
+  - __PanelContainer__rootVisualContainer__connections-window-horizontal-pane__connections-window-horizontal-settings-scroll__HorizontalScroller__Slider__UnityEngine.UIElements.Scroller+ScrollerSlider
+  m_Values:
+  - '{"m_FixedPaneDimension":100.0}'
+  - '{"m_Value":0.0,"m_LowValue":0.0,"m_HighValue":-79.19999694824219}'
+  - '{"m_Value":0.0,"m_LowValue":0.0,"m_HighValue":0.0}'
+  - '{"m_Value":0.0,"m_LowValue":0.0,"m_HighValue":0.0}'
+  - '{"m_Value":0.0,"m_LowValue":0.0,"m_HighValue":0.0}'
+  - '{"m_FixedPaneDimension":100.0}'
+  - '{"m_Value":0.0,"m_LowValue":0.0,"m_HighValue":0.0}'
+  - '{"m_Value":0.0,"m_LowValue":0.0,"m_HighValue":0.0}'
+  - '{"m_Value":0.0,"m_LowValue":0.0,"m_HighValue":0.0}'
+  - '{"m_Value":0.0,"m_LowValue":0.0,"m_HighValue":0.0}'

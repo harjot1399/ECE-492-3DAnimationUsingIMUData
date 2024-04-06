@@ -1,0 +1,17 @@
+{
+  "name": "com.movella.xsens",
+  "displayName": "Xsens",
+  "version": "2023.0.0",
+  "unity": "2022.2",
+  "description": "Directly stream your Motion Capture data from MVN Animate into Unity.  Record and playback your capture in Unity.",
+  "dependencies": {
+    "com.unity.live-capture": "4.0.0-pre.3"
+  },
+  "samples": [
+    {
+      "displayName": "Streaming Demo",
+      "description": "This demo scene shows a fully configured connection to MVN Animate.",
+      "path": "Samples~/Streaming Demo"
+    }
+  ]
+}
