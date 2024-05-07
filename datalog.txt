@@ -1,48 +1,155 @@
-Roll:-27.99, Pitch: 2.20, Yaw:-93.93 leftForearm |
-Roll:-30.93, Pitch:-0.93, Yaw:-93.59 leftForearm |
-Roll:-34.88, Pitch:-5.94, Yaw:-91.96 leftForearm |
-Roll:-37.81, Pitch:-10.33, Yaw:-90.35 leftForearm |
-Roll:-40.45, Pitch:-13.26, Yaw:-89.55 leftForearm |
-Roll:-46.80, Pitch:-18.83, Yaw:-90.79 leftForearm |
-Roll:-38.95, Pitch:-9.57, Yaw:-103.60 leftForearm |
-Roll:-23.49, Pitch:-8.83, Yaw:-103.75 leftForearm |
-Roll:-15.50, Pitch:-6.20, Yaw:-102.78 leftForearm |
-Roll:-15.04, Pitch:-6.10, Yaw:-103.39 leftForearm |
-Roll:-19.62, Pitch:-9.20, Yaw:-101.12 leftForearm |
-Roll:-38.16, Pitch:-25.56, Yaw:-94.80 leftForearm |
-Roll:-37.62, Pitch:-30.08, Yaw:-102.82 leftForearm |
-Roll:-27.17, Pitch:-25.43, Yaw:-110.54 leftForearm |
-Roll:-12.21, Pitch:-12.46, Yaw:-114.03 leftForearm |
-Roll:-6.53, Pitch:-6.51, Yaw:-112.85 leftForearm |
-Roll:-6.56, Pitch:-5.05, Yaw:-112.04 leftForearm |
-Roll:-7.09, Pitch:-7.77, Yaw:-110.37 leftForearm |
-Roll:-14.57, Pitch:-15.87, Yaw:-106.79 leftForearm |
-Roll:-27.35, Pitch:-21.33, Yaw:-103.77 leftForearm |
-Roll:-32.07, Pitch:-28.51, Yaw:-106.49 leftForearm |
-Roll:-11.87, Pitch:-15.41, Yaw:-119.14 leftForearm |
-Roll:-2.84, Pitch:-4.87, Yaw:-114.56 leftForearm |
-Roll:-3.91, Pitch:-9.41, Yaw:-107.33 leftForearm |
-Roll:-15.04, Pitch:-11.68, Yaw:-104.32 leftForearm |
-Roll:-30.28, Pitch:-27.90, Yaw:-102.95 leftForearm |
-Roll:-23.66, Pitch:-29.62, Yaw:-109.95 leftForearm |
-Roll:-11.82, Pitch:-20.71, Yaw:-117.30 leftForearm |
-Roll:-7.87, Pitch:-11.32, Yaw:-118.13 leftForearm |
-Roll:-3.28, Pitch:-10.80, Yaw:-111.28 leftForearm |
-Roll:-27.12, Pitch:-21.90, Yaw:-101.30 leftForearm |
-Roll:-35.14, Pitch:-29.86, Yaw:-100.25 leftForearm |
-Roll:-24.00, Pitch:-29.35, Yaw:-110.99 leftForearm |
-Roll:-7.82, Pitch:-15.01, Yaw:-119.93 leftForearm |
-Roll: 0.76, Pitch:-11.28, Yaw:-119.56 leftForearm |
-Roll:-3.68, Pitch:-10.38, Yaw:-113.87 leftForearm |
-Roll:-22.57, Pitch:-22.69, Yaw:-107.58 leftForearm |
-Roll:-33.34, Pitch:-30.82, Yaw:-105.90 leftForearm |
-Roll:-22.75, Pitch:-30.88, Yaw:-121.69 leftForearm |
-Roll:-1.86, Pitch:-17.42, Yaw:-129.26 leftForearm |
-Roll: 3.42, Pitch:-9.56, Yaw:-124.72 leftForearm |
-Roll:-4.80, Pitch:-9.59, Yaw:-113.98 leftForearm |
-Roll:-22.31, Pitch:-22.65, Yaw:-106.14 leftForearm |
-Roll:-28.86, Pitch:-31.28, Yaw:-106.76 leftForearm |
-Roll:-19.86, Pitch:-34.41, Yaw:-115.00 leftForearm |
-Roll:-5.00, Pitch:-19.64, Yaw:-122.84 leftForearm |
-Roll: 0.92, Pitch:-8.07, Yaw:-119.87 leftForearm |
-Roll: 2.24, Pitch:-10.78, Yaw:-115.88 leftForearm |
+Roll:-0.41, Pitch: 3.41, Yaw:32.38 leftForearm |
+Roll:-0.46, Pitch: 3.40, Yaw:32.37 leftForearm |
+Roll:-0.52, Pitch: 3.37, Yaw:32.37 leftForearm |
+Roll:-0.55, Pitch: 3.33, Yaw:32.22 leftForearm |
+Roll:-0.58, Pitch: 3.30, Yaw:32.22 leftForearm |
+Roll:-0.66, Pitch: 3.25, Yaw:32.21 leftForearm |
+Roll:-0.66, Pitch: 3.37, Yaw:32.08 leftForearm |
+Roll:-0.67, Pitch: 3.44, Yaw:32.05 leftForearm |
+Roll:-0.68, Pitch: 3.55, Yaw:31.91 leftForearm |
+Roll:-0.69, Pitch: 3.64, Yaw:31.77 leftForearm |
+Roll:-0.71, Pitch: 3.73, Yaw:31.64 leftForearm |
+Roll:-0.71, Pitch: 3.81, Yaw:31.60 leftForearm |
+Roll:-0.72, Pitch: 3.89, Yaw:31.57 leftForearm |
+Roll:-0.73, Pitch: 3.96, Yaw:31.50 leftForearm |
+Roll:-0.72, Pitch: 4.03, Yaw:31.34 leftForearm |
+Roll:-0.72, Pitch: 4.04, Yaw:31.34 leftForearm |
+Roll:-0.71, Pitch: 4.15, Yaw:31.29 leftForearm |
+Roll:-0.72, Pitch: 4.22, Yaw:31.19 leftForearm |
+Roll:-0.72, Pitch: 4.29, Yaw:31.15 leftForearm |
+Roll:-0.73, Pitch: 4.33, Yaw:31.28 leftForearm |
+Roll:-0.73, Pitch: 4.38, Yaw:31.25 leftForearm |
+Roll:-0.74, Pitch: 4.43, Yaw:31.13 leftForearm |
+Roll:-0.75, Pitch: 4.47, Yaw:31.10 leftForearm |
+Roll:-0.75, Pitch: 4.51, Yaw:30.91 leftForearm |
+Roll:-0.75, Pitch: 4.53, Yaw:30.96 leftForearm |
+Roll:-0.74, Pitch: 4.55, Yaw:31.02 leftForearm |
+Roll:-0.75, Pitch: 4.56, Yaw:30.99 leftForearm |
+Roll:-0.75, Pitch: 4.57, Yaw:30.80 leftForearm |
+Roll:-0.74, Pitch: 4.58, Yaw:30.77 leftForearm |
+Roll:-0.74, Pitch: 4.57, Yaw:30.75 leftForearm |
+Roll:-0.74, Pitch: 4.57, Yaw:30.73 leftForearm |
+Roll:-0.73, Pitch: 4.56, Yaw:30.70 leftForearm |
+Roll:-0.73, Pitch: 4.54, Yaw:30.67 leftForearm |
+Roll:-0.73, Pitch: 4.52, Yaw:30.73 leftForearm |
+Roll:-0.73, Pitch: 4.51, Yaw:30.71 leftForearm |
+Roll:-0.74, Pitch: 4.48, Yaw:30.64 leftForearm |
+Roll:-0.73, Pitch: 4.46, Yaw:30.64 leftForearm |
+Roll:-0.72, Pitch: 4.43, Yaw:30.61 leftForearm |
+Roll:-0.71, Pitch: 4.40, Yaw:30.58 leftForearm |
+Roll:-0.71, Pitch: 4.37, Yaw:30.55 leftForearm |
+Roll:-0.70, Pitch: 4.35, Yaw:30.52 leftForearm |
+Roll:-0.69, Pitch: 4.32, Yaw:30.49 leftForearm |
+Roll:-0.69, Pitch: 4.28, Yaw:30.60 leftForearm |
+Roll:-0.68, Pitch: 4.25, Yaw:30.54 leftForearm |
+Roll:-0.67, Pitch: 4.23, Yaw:30.61 leftForearm |
+Roll:-0.66, Pitch: 4.19, Yaw:30.57 leftForearm |
+Roll:-0.65, Pitch: 4.17, Yaw:30.58 leftForearm |
+Roll:-0.63, Pitch: 4.12, Yaw:30.55 leftForearm |
+Roll:-0.62, Pitch: 4.09, Yaw:30.53 leftForearm |
+Roll:-0.62, Pitch: 4.07, Yaw:30.51 leftForearm |
+Roll:-2.06, Pitch: 3.93, Yaw:30.48 leftForearm |
+Roll:-1.24, Pitch: 3.88, Yaw:24.56 leftForearm |
+Roll:-0.50, Pitch: 3.05, Yaw:13.61 leftForearm |
+Roll:-1.71, Pitch: 5.73, Yaw:24.63 leftForearm |
+Roll:-1.67, Pitch:29.39, Yaw:30.73 leftForearm |
+Roll:46.36, Pitch:81.48, Yaw:81.94 leftForearm |
+Roll:-34.60, Pitch:85.42, Yaw: 4.41 leftForearm |
+Roll:-89.50, Pitch:69.59, Yaw:-44.15 leftForearm |
+Roll:-91.80, Pitch:65.73, Yaw:-44.78 leftForearm |
+Roll:-83.69, Pitch:52.99, Yaw:-30.09 leftForearm |
+Roll:-82.29, Pitch:43.56, Yaw:-22.47 leftForearm |
+Roll:-76.89, Pitch:37.53, Yaw:-12.79 leftForearm |
+Roll:-64.64, Pitch:29.80, Yaw: 3.72 leftForearm |
+Roll:-53.34, Pitch:42.82, Yaw:19.45 leftForearm |
+Roll:-47.63, Pitch:70.06, Yaw:27.82 leftForearm |
+Roll:38.64, Pitch:77.72, Yaw:115.96 leftForearm |
+Roll:84.65, Pitch:73.86, Yaw:161.05 leftForearm |
+Roll:103.98, Pitch:68.85, Yaw:-179.58 leftForearm |
+Roll:109.98, Pitch:70.84, Yaw:-174.68 leftForearm |
+Roll:84.54, Pitch:80.93, Yaw:158.97 leftForearm |
+Roll:-37.35, Pitch:55.12, Yaw:46.63 leftForearm |
+Roll:-42.78, Pitch:29.05, Yaw:47.17 leftForearm |
+Roll:-40.27, Pitch:18.35, Yaw:48.09 leftForearm |
+Roll:-38.40, Pitch:14.70, Yaw:48.46 leftForearm |
+Roll:-37.82, Pitch:19.99, Yaw:46.68 leftForearm |
+Roll:-42.94, Pitch:52.58, Yaw:28.00 leftForearm |
+Roll:-155.59, Pitch:71.66, Yaw:-94.16 leftForearm |
+Roll:-177.57, Pitch:54.94, Yaw:-113.63 leftForearm |
+Roll:172.16, Pitch:41.75, Yaw:-118.90 leftForearm |
+Roll:170.17, Pitch:39.66, Yaw:-119.48 leftForearm |
+Roll:172.19, Pitch:43.88, Yaw:-118.21 leftForearm |
+Roll:-176.66, Pitch:56.60, Yaw:-110.45 leftForearm |
+Roll:-134.61, Pitch:73.28, Yaw:-69.86 leftForearm |
+Roll:-40.34, Pitch:33.20, Yaw:29.58 leftForearm |
+Roll:-35.94, Pitch:14.52, Yaw:35.95 leftForearm |
+Roll:-34.65, Pitch:10.08, Yaw:37.49 leftForearm |
+Roll:-34.09, Pitch: 7.97, Yaw:38.57 leftForearm |
+Roll:-33.39, Pitch:10.39, Yaw:37.37 leftForearm |
+Roll:-34.92, Pitch:19.96, Yaw:34.37 leftForearm |
+Roll:-56.19, Pitch:58.15, Yaw: 7.93 leftForearm |
+Roll:-134.35, Pitch:66.69, Yaw:-71.89 leftForearm |
+Roll:-161.51, Pitch:56.66, Yaw:-96.97 leftForearm |
+Roll:-170.38, Pitch:47.30, Yaw:-103.41 leftForearm |
+Roll:-172.61, Pitch:43.46, Yaw:-104.38 leftForearm |
+Roll:-176.64, Pitch:33.09, Yaw:-105.61 leftForearm |
+Roll:179.50, Pitch:23.29, Yaw:-107.10 leftForearm |
+Roll:175.93, Pitch:-1.00, Yaw:-109.04 leftForearm |
+Roll:171.49, Pitch:-15.09, Yaw:-106.84 leftForearm |
+Roll:167.55, Pitch:-27.28, Yaw:-106.69 leftForearm |
+Roll:161.82, Pitch:-39.38, Yaw:-105.62 leftForearm |
+Roll:158.79, Pitch:-43.41, Yaw:-104.11 leftForearm |
+Roll:158.76, Pitch:-43.52, Yaw:-104.00 leftForearm |
+Roll:160.37, Pitch:-41.90, Yaw:-104.94 leftForearm |
+Roll:163.26, Pitch:-37.81, Yaw:-106.32 leftForearm |
+Roll:166.22, Pitch:-31.94, Yaw:-106.68 leftForearm |
+Roll:-165.08, Pitch:34.18, Yaw:-92.90 leftForearm |
+Roll:-138.91, Pitch:54.27, Yaw:-68.93 leftForearm |
+Roll:-60.78, Pitch:62.42, Yaw: 6.07 leftForearm |
+Roll:-38.06, Pitch:57.12, Yaw:29.52 leftForearm |
+Roll:-20.61, Pitch:53.24, Yaw:50.64 leftForearm |
+Roll:-8.14, Pitch:55.42, Yaw:64.21 leftForearm |
+Roll: 3.66, Pitch:58.87, Yaw:76.59 leftForearm |
+Roll:22.51, Pitch:56.93, Yaw:96.93 leftForearm |
+Roll:31.88, Pitch:56.65, Yaw:105.55 leftForearm |
+Roll:38.96, Pitch:55.06, Yaw:110.73 leftForearm |
+Roll:43.12, Pitch:50.63, Yaw:110.51 leftForearm |
+Roll:42.86, Pitch:45.35, Yaw:111.33 leftForearm |
+Roll:20.60, Pitch:55.50, Yaw:106.00 leftForearm |
+Roll: 4.79, Pitch:50.31, Yaw:94.73 leftForearm |
+Roll:-0.67, Pitch:47.35, Yaw:88.55 leftForearm |
+Roll: 9.65, Pitch: 6.43, Yaw:68.62 leftForearm |
+Roll:-0.38, Pitch: 3.45, Yaw:67.88 leftForearm |
+Roll:-0.25, Pitch: 1.91, Yaw:68.99 leftForearm |
+Roll:-0.21, Pitch: 1.91, Yaw:68.99 leftForearm |
+Roll:-0.19, Pitch: 1.90, Yaw:68.99 leftForearm |
+Roll:-0.16, Pitch: 1.88, Yaw:68.98 leftForearm |
+Roll:-0.13, Pitch: 1.88, Yaw:68.97 leftForearm |
+Roll:-0.11, Pitch: 1.88, Yaw:68.97 leftForearm |
+Roll:-0.09, Pitch: 1.87, Yaw:68.97 leftForearm |
+Roll:-0.07, Pitch: 1.86, Yaw:68.96 leftForearm |
+Roll:-0.06, Pitch: 1.86, Yaw:68.96 leftForearm |
+Roll:-0.04, Pitch: 1.86, Yaw:68.95 leftForearm |
+Roll:-0.03, Pitch: 1.86, Yaw:68.95 leftForearm |
+Roll:-0.01, Pitch: 1.86, Yaw:68.95 leftForearm |
+Roll:-0.00, Pitch: 1.85, Yaw:68.95 leftForearm |
+Roll: 0.01, Pitch: 1.85, Yaw:68.94 leftForearm |
+Roll: 0.02, Pitch: 1.85, Yaw:68.93 leftForearm |
+Roll: 0.04, Pitch: 1.85, Yaw:68.93 leftForearm |
+Roll: 0.05, Pitch: 1.84, Yaw:68.92 leftForearm |
+Roll: 0.06, Pitch: 1.83, Yaw:68.92 leftForearm |
+Roll: 0.07, Pitch: 1.83, Yaw:68.92 leftForearm |
+Roll: 0.08, Pitch: 1.82, Yaw:68.91 leftForearm |
+Roll: 0.09, Pitch: 1.82, Yaw:68.91 leftForearm |
+Roll: 0.10, Pitch: 1.81, Yaw:68.90 leftForearm |
+Roll: 0.11, Pitch: 1.80, Yaw:68.89 leftForearm |
+Roll: 0.12, Pitch: 1.80, Yaw:68.89 leftForearm |
+Roll: 0.13, Pitch: 1.79, Yaw:68.88 leftForearm |
+Roll: 0.13, Pitch: 1.79, Yaw:68.88 leftForearm |
+Roll: 0.14, Pitch: 1.79, Yaw:68.87 leftForearm |
+Roll: 0.15, Pitch: 1.79, Yaw:68.86 leftForearm |
+Roll: 0.16, Pitch: 1.79, Yaw:68.86 leftForearm |
+Roll: 0.28, Pitch: 1.62, Yaw:69.64 leftForearm |
+Roll: 0.28, Pitch: 1.62, Yaw:69.64 leftForearm |
+Roll: 0.28, Pitch: 1.62, Yaw:69.64 leftForearm |
+Roll: 0.28, Pitch: 1.61, Yaw:69.64 leftForearm |
